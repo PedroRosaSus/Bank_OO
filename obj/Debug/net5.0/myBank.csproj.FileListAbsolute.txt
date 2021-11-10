@@ -1,0 +1,32 @@
+C:\Users\Rosely\Desktop\Repositório_C#\Bank_OO\myBank\bin\Debug\net5.0\myBank.exe
+C:\Users\Rosely\Desktop\Repositório_C#\Bank_OO\myBank\bin\Debug\net5.0\myBank.deps.json
+C:\Users\Rosely\Desktop\Repositório_C#\Bank_OO\myBank\bin\Debug\net5.0\myBank.runtimeconfig.json
+C:\Users\Rosely\Desktop\Repositório_C#\Bank_OO\myBank\bin\Debug\net5.0\myBank.runtimeconfig.dev.json
+C:\Users\Rosely\Desktop\Repositório_C#\Bank_OO\myBank\bin\Debug\net5.0\myBank.dll
+C:\Users\Rosely\Desktop\Repositório_C#\Bank_OO\myBank\bin\Debug\net5.0\ref\myBank.dll
+C:\Users\Rosely\Desktop\Repositório_C#\Bank_OO\myBank\bin\Debug\net5.0\myBank.pdb
+C:\Users\Rosely\Desktop\Repositório_C#\Bank_OO\myBank\obj\Debug\net5.0\myBank.csproj.AssemblyReference.cache
+C:\Users\Rosely\Desktop\Repositório_C#\Bank_OO\myBank\obj\Debug\net5.0\myBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosely\Desktop\Repositório_C#\Bank_OO\myBank\obj\Debug\net5.0\myBank.AssemblyInfoInputs.cache
+C:\Users\Rosely\Desktop\Repositório_C#\Bank_OO\myBank\obj\Debug\net5.0\myBank.AssemblyInfo.cs
+C:\Users\Rosely\Desktop\Repositório_C#\Bank_OO\myBank\obj\Debug\net5.0\myBank.csproj.CoreCompileInputs.cache
+C:\Users\Rosely\Desktop\Repositório_C#\Bank_OO\myBank\obj\Debug\net5.0\myBank.dll
+C:\Users\Rosely\Desktop\Repositório_C#\Bank_OO\myBank\obj\Debug\net5.0\ref\myBank.dll
+C:\Users\Rosely\Desktop\Repositório_C#\Bank_OO\myBank\obj\Debug\net5.0\myBank.pdb
+C:\Users\Rosely\Desktop\Repositório_C#\Bank_OO\myBank\obj\Debug\net5.0\myBank.genruntimeconfig.cache
+C:\Users\sefor\OneDrive\Desktop\Nova pasta\Bank_OO\myBank\obj\Debug\net5.0\myBank.pdb
+C:\Users\sefor\OneDrive\Desktop\Nova pasta\Bank_OO\myBank\bin\Debug\net5.0\myBank.exe
+C:\Users\sefor\OneDrive\Desktop\Nova pasta\Bank_OO\myBank\bin\Debug\net5.0\myBank.deps.json
+C:\Users\sefor\OneDrive\Desktop\Nova pasta\Bank_OO\myBank\bin\Debug\net5.0\myBank.runtimeconfig.json
+C:\Users\sefor\OneDrive\Desktop\Nova pasta\Bank_OO\myBank\bin\Debug\net5.0\myBank.runtimeconfig.dev.json
+C:\Users\sefor\OneDrive\Desktop\Nova pasta\Bank_OO\myBank\bin\Debug\net5.0\myBank.dll
+C:\Users\sefor\OneDrive\Desktop\Nova pasta\Bank_OO\myBank\bin\Debug\net5.0\ref\myBank.dll
+C:\Users\sefor\OneDrive\Desktop\Nova pasta\Bank_OO\myBank\bin\Debug\net5.0\myBank.pdb
+C:\Users\sefor\OneDrive\Desktop\Nova pasta\Bank_OO\myBank\obj\Debug\net5.0\myBank.csproj.AssemblyReference.cache
+C:\Users\sefor\OneDrive\Desktop\Nova pasta\Bank_OO\myBank\obj\Debug\net5.0\myBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sefor\OneDrive\Desktop\Nova pasta\Bank_OO\myBank\obj\Debug\net5.0\myBank.AssemblyInfoInputs.cache
+C:\Users\sefor\OneDrive\Desktop\Nova pasta\Bank_OO\myBank\obj\Debug\net5.0\myBank.AssemblyInfo.cs
+C:\Users\sefor\OneDrive\Desktop\Nova pasta\Bank_OO\myBank\obj\Debug\net5.0\myBank.csproj.CoreCompileInputs.cache
+C:\Users\sefor\OneDrive\Desktop\Nova pasta\Bank_OO\myBank\obj\Debug\net5.0\myBank.dll
+C:\Users\sefor\OneDrive\Desktop\Nova pasta\Bank_OO\myBank\obj\Debug\net5.0\ref\myBank.dll
+C:\Users\sefor\OneDrive\Desktop\Nova pasta\Bank_OO\myBank\obj\Debug\net5.0\myBank.genruntimeconfig.cache
